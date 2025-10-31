@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 19ca1d56-6c0c-4695-876c-b237be9b854c
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jortega-berkeley/eratosthenes
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
