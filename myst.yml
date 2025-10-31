@@ -2,7 +2,10 @@
 version: 1
 project:
   id: 19ca1d56-6c0c-4695-876c-b237be9b854c
-  # title:
+  title: Collaborative and Reproducible Data Science
+  authors:
+    - name: Joseph Ortega
+            affiliation: UC Berkeley
   # description:
   # keywords: []
   # authors: []
